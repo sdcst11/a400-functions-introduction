@@ -34,6 +34,7 @@ In example 3 we start to refine our program structure by defining a main of code
 While not strictly necessary for our purposes, now is a good time to start getting  into the habit.
 
 Task 1:
+```
 Create a program with 3 function definitions:
 function A prints the message "Hello"
 function B prints the message "How are you"
@@ -41,8 +42,10 @@ function C prints the message "Hi"
 
 Ask the user to enter a letter from A to C
 Execute the function of the letter they use.
+```
 
 Task 2:
+```
 Create a program to play a number guessing game
 There should be a function:
 title()
@@ -50,3 +53,6 @@ displays instructions and how to play
 
 game()
 plays the game
+
+This will be silimar to something you have already done, but in this task you are breaking the code up into different sections to make each a function.
+```
